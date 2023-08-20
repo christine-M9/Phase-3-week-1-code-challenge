@@ -5,7 +5,7 @@ by Christine K Juma.
 
   ## DESCRIPTION
 
-This is a python application that solves three toy problems namely:
+This is a python application that solves three toy problems:
 
 1. Time convertor; A defined  function, which will be given an hour (always in the range of 1 to 12, inclusive), a minute (always in the range of 0 to 59, inclusive), and a period (either "am" or "pm") as input.
 
@@ -37,6 +37,7 @@ Ensure that you have;
  ## TECHNOLOGY USED
 
  1. Python.
+
 
 ## LICENSE
 
