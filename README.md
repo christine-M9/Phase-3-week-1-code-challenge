@@ -31,7 +31,7 @@ Ensure that you have;
    ``` 
 
 
-2. Run each challenge independently. For challenge2 and challenge3, input is used where you will be required to run the project on the terminal. e.g type python3 challenge2.py and follow the instructions on the terminal as opposed to challenge1 where you are required to enter your time in the required place of code.
+2. Run each challenge independently. For challenge1, challenge2 and challenge3, input is used where you will be required to run the project on the terminal. e.g type python3 challenge1.py and follow the instructions on the terminal.Applies to all challenges.
 
 
  ## TECHNOLOGY USED
