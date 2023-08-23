@@ -17,7 +17,7 @@ def count_consonants(name):
 
     return max(max_value, initial_value)
 
-word1 = input("Enter a name: ")
+word1 = input("Enter a name: ") 
 word2 = input("Enter another name: ")
 
 print(count_consonants(word1))
